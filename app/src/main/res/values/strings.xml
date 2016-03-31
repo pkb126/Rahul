@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Smart Home</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="hint_username">User Name </string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="err_msg_username">Enter your username</string>
+    <string name="err_msg_password">Enter your password</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="logout">Logout</string>
+    <string name="title_activity_login">Login</string>
+    <string name="aboutus">About us</string>
+    <string name="title_activity_about_us">About Us</string>
+    <string name="vision">To be at leading and respectable place in the knowledge led creativity movement. World see toward our country as leading industry of Electronics. We plan to design and fabricate our own product.</string>
+    <string name="mission_one">Students are ride of the nation. Our mission is to provide excellent theoretical and practical knowledge that will help students to create interest in electronics field, so they will work greatly with full of energy and satisfaction. We are mostly interested in Microelectronics, VLSI and Embedded design, so we are organizing workshop on VLSI and embedded design that will help us to provide platform of VLSI and Embedded design to students, our intern. These guys will help us to grow the electronics industry by joining our company or starting their own.</string>
+    <string name="mission_two">We are mostly focused on our customer requirement and always work for completion of their demands  with satisfaction. We are giving importance to creative minds and always be with the one having innovative ideas. We give priority to work in union and always like to work in competitive environment.   We are at the learning stage and will always be at same place since we believe that there is something to learn to implement new ideas with the use of experience.</string>
+    <string name="features">  Founded by IITian\n Having one unit at IIT kharagpur\n Sponsor by many IITian\n Awareness of today’s technology\n Direction for students career in Embedded and VLSI field</string>
+    <string name="in_our_area"> First VLSI and embedded company in Amravati\n We have training unit with planning for own research lab in Amravati</string>
+    <string name="benefits">1. opportunity of sponsor project in our company\n2. chance of internship in our company\n3. Help to build students basic about VLSI. It will be very helpful for placement in core company.</string>
+    <string name="about_vchip">V-chip design and training pvt. Ltd. offers opportunities to specialize concurrently in functional areas of IC designing, Embedded and VLSI related Workshops, Internship, Live project, Sponsored project, Certified courses along with research facilities with leadership quality in technology. Over the year, V-chip design and training pvt. Ltd.  has stared to provide a world class educational platform dynamically along with excellent practical knowledge and planning for research lab facilities.\n\nDream with direction is nothing but success. We are always there for generation of creative environment and we are mostly believe in completion of small steps so we will reach to our dream with full of dedication and commitment that will make your life more comfort.\n\nV-chip design and training pvt. Ltd. has ambitious plans to upgrade and expand its infrastructural facilities so that the expertise within will be of use to a larger section of student population as well as industry. The day is not far when V-chip design and training pvt. Ltd.  will be counted amongst the top Industry in the field of microelectronics and VLSI.\n\nMostly dedicate to achieve our vision: “To be at leading and respectable place in the knowledge led creativity movement”. For realizing the vision, we stand committed to provide outstanding guidance, leadership, faculty, research lab, library resources.></string>
+
+</resources>
